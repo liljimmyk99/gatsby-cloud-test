@@ -1,0 +1,22 @@
+{
+  "name": "frc-team-5401-wiki",
+  "version": "1.0.0",
+  "private": true,
+  "description": "frc-team-5401-wiki",
+  "author": "Jimmy Kane",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "gatsby": "^5.11.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
