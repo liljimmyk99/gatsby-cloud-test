@@ -7,4 +7,6 @@ module.exports = {
     siteUrl: `https://www.yourdomain.tld`,
   },
   plugins: [],
+  pathPrefix: "/gatsby-cloud-test ",
+
 }
